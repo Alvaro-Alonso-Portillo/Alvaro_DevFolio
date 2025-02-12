@@ -1,8 +1,7 @@
-# [Portafolio creado con GitHub](https://github.com/said7388/github-portfolio)
 
----
 
 # Portafolio para desarrolladores
+> Esta es una adaptación del excelente proyecto [Portafolios para desarrolladores](https://github.com/said7388/developer-portfolio) creado originalmente por [Abu Said](https://github.com/said7388) en Next.js.
 
 #### ¿Tiene dificultades para crear un sitio web de portafolio profesional? ¡No busque más! Puede usar la plantilla de Portafolio para desarrolladores y crear su propio portafolio personalizado hoy mismo. Mi sitio web está diseñado para ser fácil de usar y personalizar, lo que lo hace perfecto tanto para desarrolladores como para autónomos.
 
@@ -188,3 +187,7 @@ Siempre que envíes cambios a tu repositorio de GitHub, Vercel volverá a implem
 2. En el **Panel de control de Netlify**, haz clic en **"Nuevo sitio desde Git"**.
 3. Conecta tu cuenta de **GitHub** y selecciona tu repositorio.
 4. Configura tu entorno
+
+## Agradecimientos
+¡Gracias por vuestro increíble trabajo! Vuestra contribución a este proyecto ha sido invaluable, y vuestro código refleja un gran nivel de dedicación y conocimiento. Aprecio el esfuerzo y el tiempo que habeis invertido. ¡Seguid creando cosas geniales!" 🚀💻
+[Abu Said](https://github.com/said7388)
