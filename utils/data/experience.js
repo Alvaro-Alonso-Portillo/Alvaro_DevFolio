@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: 'InstaConquer_Django_Project',
+    title: 'InstaConquer Django Project',
     company: "Proyecto-ConquerBlocks",
     duration: "Noviembre 2024"
   },
