@@ -18,15 +18,18 @@ function AboutSection() {
           <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
             Quién soy
           </p>
-          <p className="text-gray-200 text-sm lg:text-lg">
-            {personalData.description}
-          </p>
+          {personalData.description.split("<br>").map((line, index) => (
+            <p key={index} className="text-gray-200 text-sm lg:text-lg mb-6">
+              {line}
+            </p>
+))}
+
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
             src={personalData.profile}
-            width={360}
-            height={280}
+            width={560}
+            height={560}
             alt="Abu Said"
             className="rounded-lg transition-all duration-1000 grayscale hover:scale-110 hover:grayscale-0 cursor-pointer"
           />

@@ -2,7 +2,12 @@ export const personalData = {
   name: "Alvaro Alonso",
   profile: "/profile.png", // Ruta de tu foto de perfil
   designation: "Full Stack Web Developer",
-  description:"¡Hola! Soy Alvaro Alonso Portillo, desarrollador web full-stack con experiencia en la creación de aplicaciones eficientes y escalables.\nMi enfoque combina la potencia de Python y Django en el backend con la flexibilidad de React en el frontend para desarrollar soluciones modernas y funcionales. Me apasiona convertir ideas en productos digitales, optimizar el rendimiento de las aplicaciones y aprender continuamente sobre nuevas tecnologías. En mi portfolio encontrarás proyectos que reflejan mi habilidad para diseñar, desarrollar e implementar aplicaciones completas, desde plataformas de gestión hasta herramientas interactivas. Siempre busco mejorar mis habilidades y colaborar en proyectos desafiantes.\nSi tienes una idea o necesitas un desarrollador apasionado por la tecnología y con ganas de afrontar nuevos retos, ¡hablemos! ",
+  description: `¡Hola! Soy Alvaro Alonso Portillo, desarrollador web full-stack con experiencia en la creación de aplicaciones eficientes y escalables.<br><br>
+  Mi enfoque combina la potencia de Python y Django en el backend con la flexibilidad de React en el frontend para desarrollar soluciones modernas y funcionales.<br><br>
+  Me apasiona convertir ideas en productos digitales, optimizar el rendimiento de las aplicaciones y aprender continuamente sobre nuevas tecnologías.<br><br>
+  En mi portfolio encontrarás proyectos que reflejan mi habilidad para diseñar, desarrollar e implementar aplicaciones completas, desde plataformas de gestión hasta herramientas interactivas.<br><br>
+  Siempre busco mejorar mis habilidades y colaborar en proyectos desafiantes.<br><br>
+  Si tienes una idea o necesitas un desarrollador apasionado por la tecnología y con ganas de afrontar nuevos retos, ¡hablemos!`,  
   email: "balonsomorillo@gamil.com",
   phone: "+34666426999",
   address: "Alcalá de Guadaira, Sevilla",
