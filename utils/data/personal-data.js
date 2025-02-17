@@ -8,7 +8,7 @@ export const personalData = {
   En mi portfolio encontrarás proyectos que reflejan mi habilidad para diseñar, desarrollar e implementar aplicaciones completas, desde plataformas de gestión hasta herramientas interactivas.<br><br>
   Siempre busco mejorar mis habilidades y colaborar en proyectos desafiantes.<br><br>
   Si tienes una idea o necesitas un desarrollador apasionado por la tecnología y con ganas de afrontar nuevos retos, ¡hablemos!`,  
-  email: "balonsomorillo@gamil.com",
+  email: "balonsomorillo@gmail.com",
   phone: "+34666426999",
   address: "Alcalá de Guadaira, Sevilla",
   github: 'https://github.com/Alvaro-Alonso-Portillo',
