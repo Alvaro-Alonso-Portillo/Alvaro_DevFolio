@@ -13,6 +13,9 @@ export const metadata = {
   title: "Portfolio de Alvaro Alonso - Software Developer",
   description:
     "Este es el portafolio de Alvaro Alonso. Soy un desarrollador full stack y autodidacta. Me encanta aprender cosas nuevas y siempre estoy abierto a colaborar con otros. Aprendo rápido y siempre estoy buscando nuevos desafíos.",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({ children }) {
