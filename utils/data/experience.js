@@ -13,7 +13,7 @@ export const experiences = [
   },
   {
     id: 3,
-    title: 'Proyecto_Django_CHAT',
+    title: 'DevCheatSheet Generator',
     company: "Personal developer",
     duration: "Present"
   },

@@ -31,13 +31,13 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: "MiniJuegos_Creados_con_Python",
-        description: "Aquí encontrarás una variedad de mini juegos sencillos y divertidos, programados en Python. Cada juego está diseñado para ser fácil de entender y jugar, ideal para pasar un rato entretenido o para aprender los fundamentos de la programación en Python.",
+        name: "DevCheatSheet Generator",
+        description: "es una aplicación web que permite a los desarrolladores crear, personalizar y exportar cheatsheets de referencia para diferentes lenguajes de programación y tecnologías. Esta herramienta es ideal para mantener snippets de código organizados y accesibles, con explicaciones detalladas que pueden generarse automáticamente mediante la integración con OpenAI.",
         tools: ["Python"],
         code: "",
-        demo: "https://github.com/Alvaro-Alonso-Portillo/MiniJuegos_Creados_con_Python",
+        demo: "https://github.com/Alvaro-Alonso-Portillo/cheatsheet-generator",
         image: "",
-        role: "Games Developer",
+        role: "Developer",
     },
     {
         id: 5,
